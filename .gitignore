@@ -1,0 +1,16 @@
+# Eclipse files
+.metadata
+.classpath
+.project
+.settings/
+
+# Java class files
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Directories
+bin/
